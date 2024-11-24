@@ -1,0 +1,11 @@
+period: 60 #seconds
+expire-time: 30 #days
+log-in-console: true
+filter:
+  ignore-without-owners: true
+  ignore-worlds:
+    - disabled_world
+  ignore-regions:
+    - spawn
+    - pvp
+    - another_region
