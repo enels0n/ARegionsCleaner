@@ -1,0 +1,8 @@
+name: ${project.name}
+main: ${project.groupId}.${project.name}
+version: ${project.version}
+authors: [E_NeLsOn]
+depend: [WorldGuard,Essentials]
+api-version: 1.21
+commands:
+  aregionscleaner:

@@ -1,0 +1,8 @@
+name: ARegionsCleaner
+main: net.enelson.astract.regionscleaner.ARegionsCleaner
+version: 0.0.1-SNAPSHOT
+authors: [E_NeLsOn]
+depend: [WorldGuard,Essentials]
+api-version: 1.21
+commands:
+  aregionscleaner:
